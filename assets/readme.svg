@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.5 271">
+<defs>
+<style>
+.cls-1{fill:#250e38;}
+.cls-2{fill:#fff;}
+.cls-3{fill:#dfdddb;}
+.cls-4{fill:#fffdfc;}
+.cls-5{fill:#a71b2d;}
+.cls-6{fill:#df1c25;}
+.cls-7{fill:#b5825a;}
+.cls-8{fill:#77767b;}
+.cls-9{fill:#e11b27;}
+.cls-10{fill:#1c5db5;}
+.cls-11{fill:#232033;}
+.cls-12{fill:#635b64;}
+.cls-13{fill:#63a1ee;}
+.cls-14{fill:#3d3945;}
+.cls-15{animation: rainbow 1s infinite;}
+.cls-16{fill:#251f31;}
+
+@keyframes rainbow{
+    100%{
+        fill: #7694e4;
+    }
+    17%{
+        fill: #08000;
+    }
+    33%{
+        fill: #ffff00;
+    }
+    50%{
+        fill: #ffa500;
+    }
+    67%{
+        fill: #ff0000;
+    }
+    83%{
+        fill: #ff69b4;
+    }
+    0%{
+        fill: #7694e4;
+    }
+}
+</style>
+</defs><g id="Camada_2" data-name="Camada 2"><g id="Camada_1-2" data-name="Camada 1"><g id="Camada_2-2" data-name="Camada 2"><g id="fim"><rect class="cls-1" x="376.5" y="255" width="15" height="16"/><rect class="cls-1" x="391.5" y="240" width="15" height="16"/><rect class="cls-1" x="406.5" y="255" width="15" height="16"/><rect class="cls-1" x="421.5" y="240" width="15" height="16"/><rect class="cls-1" x="436.5" y="255" width="15" height="16"/><rect class="cls-1" x="406.5" y="225" width="15" height="16"/></g><g id="papel"><polyline class="cls-2" points="286.77 135.5 256.71 135.5 256.71 180.5 286.77 180.5 286.77 195.09 271.74 195.09 271.74 210.49 256.71 210.49 256.71 255.5 241.5 255.5 241.5 270.73 0 270.73 0 255.33 60 255.33 60 240.5 166 240.5 166 225.64 181.04 225.64 181.04 180.09 196 180.09 196 135.5 181.04 135.5 181.04 104.52 272 104.52 272 119.58 287 119.58"/><polygon class="cls-3" points="181.04 119.82 272 119.82 272 135.5 256.71 135.5 256.5 180 287 180 287 194.97 271.74 195.09 271.74 210.49 256.71 210.49 256.71 256 241.5 256 241.5 270.73 90.65 270.73 90.65 256.06 241.5 256.06 241.5 240.79 166 240.79 166 225.64 181.04 225.64 181.04 180.09 196 180.09 196 135.5 181.04 135.5 181.04 119.82"/><rect class="cls-2" x="181.05" y="195.09" width="15.45" height="15.27"/><rect class="cls-4" x="211.05" y="195.09" width="15.45" height="15.27"/><rect class="cls-4" x="196.05" y="210.09" width="15.45" height="15.27"/><rect class="cls-4" x="181.05" y="225" width="15.45" height="16.36"/><rect class="cls-4" x="211.05" y="225" width="15.45" height="16.36"/><rect class="cls-4" x="226.05" y="210.09" width="15.45" height="15.27"/><rect class="cls-4" x="241.05" y="195.09" width="15.45" height="15.27"/></g><g id="corpo_acima" data-name="corpo acima"><polyline class="cls-5" points="287 165.5 287 194.97 271.74 194.97 271.74 210 256.59 210 256.59 240.18 377 240.18 377 225.64 392 225.64 392 180.5 301.8 180.5 301.8 165.5 287 165.5"/><polyline class="cls-6" points="287 194.97 301.8 194.97 301.8 210.36 362 210.36 362 194.97 317 194.97 317 180.5 301.8 180.5 301.8 165.5 287 165.5"/><polyline class="cls-6" points="392 195.09 377 195.09 377 210.36 392 210.36 392 195.09"/><rect class="cls-7" x="256.5" y="135" width="31" height="45"/><rect class="cls-7" x="166" y="135.5" width="31" height="45"/><rect class="cls-8" x="422" y="14" width="15.5" height="15"/><polyline class="cls-9" points="166 180.5 166 195.09 181.5 195.09 181.5 180.5 166 180.5"/></g><g id="corpo_abaixo" data-name="corpo abaixo"><polyline class="cls-10" points="256.59 240.18 377 240.18 377 225.64 392 225.64 392 255.46 377 255.46 377 270.73 241.5 270.73 241.5 256 256.71 256 256.59 240.28"/><polygon class="cls-11" points="287 270.73 287 240.18 301.8 240.18 301.8 225.64 316.75 225.64 316.75 270.73 287 270.73"/><rect class="cls-12" x="287" y="225.64" width="14.8" height="14.55"/><rect class="cls-13" x="316.75" y="240.18" width="30.25" height="15.64"/></g><g id="cabeça"><polygon class="cls-14" points="212.5 104.5 212.5 15.33 225.68 15.33 225.68 0 422.05 0 422.05 13.5 438 13.5 438 165.15 408 165.15 408 180.5 301.8 180.5 301.8 165.5 287 165.5 287 119.58 272 119.58 272 104.5 212.5 104.5"/><polygon class="cls-15" points="226.04 104.5 226.04 44.36 362 44.36 362 149.64 287 149.64 287 119.58 272 119.58 272 104.5 226.04 104.5"/><polygon class="cls-16" points="301.8 165.5 361.68 165.5 361.68 149.64 377 149.64 377 134.36 422.05 134.36 422.05 119.09 408 119.09 408 104.5 422.05 104.5 422.05 59.09 377.32 59.09 377.32 44.36 422.05 44.36 422.05 28.55 438 28.55 438 165.15 408 165.15 408 180.5 301.8 180.5 301.8 165.5"/><rect class="cls-16" x="377" y="74.5" width="30" height="15"/><rect class="cls-16" x="377" y="104.5" width="15" height="15"/><rect x="226" y="28.07" width="136" height="16.87"/><rect class="cls-8" x="226" y="44.5" width="15" height="15"/><rect class="cls-8" x="226" y="74.5" width="15" height="15"/><rect x="272" y="74.5" width="15" height="15"/><rect x="317" y="74.5" width="15" height="15"/><rect class="cls-8" x="377" width="45" height="13.5"/></g></g></g></g></svg>
