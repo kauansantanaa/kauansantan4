@@ -4,11 +4,11 @@
 <img align="right" alt="eu" width="200" src="assets/me.gif">
 <h1>Welcome!</h1>
 
-- :zap: Hey! You can call me Kauan ! :)
+- :zap: Hey! You can call me Kauan! :)
 
-- :hatching_chick: I'm currently studying **Laravel**, **Vue.js** and **React**!
+- :hatching_chick: I'm currently studying **.NET**, **Node.js** and **C#**!
 
-- :honey_pot: Always eager to learn more, focused on **web design**!
+- :honey_pot: Always eager to learn more, focused on **back-end**!
 
 - :bell: My social media contacts are:
 
